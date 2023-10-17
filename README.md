@@ -32,7 +32,7 @@ Ensure you have the following installed on your machine:
    ```bash
    npm install
    ```
-# Changing the Port Number in the Backend
+### Changing the Port Number in the Backend
 
 In order to set a custom port for the backend server of the GitHub and Stack Overflow Mashup project, you will need to modify the `.env` file located in the root directory of the backend project.
 
